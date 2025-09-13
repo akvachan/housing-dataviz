@@ -2,15 +2,15 @@
 
 California Housing dataset visualisation 
 
-# Data
+## Data
 [Here](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset) you can read about California Housing dataset.
 
-# Visualisation
+## Visualisation
 `main.py` create a scatter plot of California housing locations colored by median value. 
 
 ![](./assets/Figure_1.png)
 
-# Running
+## Running
 ```sh
 uv run main.py
 ```
